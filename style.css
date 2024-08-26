@@ -1,0 +1,18 @@
+body{
+    background: hsl(0, 93%, 46%);
+    border-color: blue;
+}
+div{
+    border-color: blueviolet;
+border-width: 12px;
+border-style: solid;
+padding : 10px;
+margin : 5px;
+color :rgb(118, 165, 42);
+background-color: black;
+}
+input{
+background-color: aquamarine;
+font-style: italic;
+font-size: 50px;
+}
